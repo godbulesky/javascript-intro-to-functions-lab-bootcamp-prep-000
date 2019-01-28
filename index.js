@@ -9,4 +9,4 @@ var lowecase = 'hello!';
 
 var mixedCase = 'Hi there!';
 
-function shout('WHISPER'){return 'WHISPER'.toLowerCase()}
+function shout('WHISPER'){return 'WHISPER'.toLowerCase()};

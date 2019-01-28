@@ -13,3 +13,5 @@ uppercase.toUpperCase() === uppercase;
 
 lowercase.toLowerCase() === lowercase;
 
+mixedCase.toLowerCase() === mixedCase;
+

@@ -9,3 +9,7 @@ var lowecase = 'hello!';
 
 var mixedCase = 'Hi there!';
 
+uppercase.toUpperCase() === uppercase;
+
+lowercase.toLowerCase() === lowercase;
+

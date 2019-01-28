@@ -11,4 +11,6 @@ var mixedCase = 'Hi there!';
 
 'Hello!'.toUpperCase();
 
+function shout('Whisper'){return 'Whisper'.toLowerCase()};
+
 
